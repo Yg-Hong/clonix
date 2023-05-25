@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clonix/static/css/main.6cc7471a.css",
+    "main.js": "/clonix/static/js/main.3a1f3c4a.js",
+    "static/js/787.a930bce4.chunk.js": "/clonix/static/js/787.a930bce4.chunk.js",
+    "index.html": "/clonix/index.html",
+    "main.6cc7471a.css.map": "/clonix/static/css/main.6cc7471a.css.map",
+    "main.3a1f3c4a.js.map": "/clonix/static/js/main.3a1f3c4a.js.map",
+    "787.a930bce4.chunk.js.map": "/clonix/static/js/787.a930bce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc7471a.css",
+    "static/js/main.3a1f3c4a.js"
+  ]
+}
